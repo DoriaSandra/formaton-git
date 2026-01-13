@@ -4,3 +4,5 @@ def liste(nbre):
 nbre=int(input("entrer un nombre"))
 lis=liste(nbre)
 print(liste(nbre))
+
+# ajout de rien 1
